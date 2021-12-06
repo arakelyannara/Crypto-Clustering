@@ -1,7 +1,7 @@
 # Crypto-Clustering
 
-This repo is uses a CSV file data for analysis. It use the K-Means algorithm on scaled data and applyes the Principal component analysis algorithm to
-create clusters for the data. At the end we have two methods compared.
+This repo is uses a CSV file data for analysis (in the Resources folder). It use the K-Means algorithm on scaled data and applies the Principal component analysis
+algorithm to create clusters for this data. At the end we have two methods compared.
 
 ---
 
