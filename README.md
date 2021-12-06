@@ -25,6 +25,14 @@ To use the Crypto-Clustering clone the repository, open it with Jupyterlab and r
 
     * crypto_investments.ipynb
 
+The multiple feature data looks like this:
+![Multiple data plotting](Images/Image2.png)
+
+The clustering  of the data using two methods:
+
+![Multiple data plotting](Images/Image1.png)
+
+
 
 ## Contributors
 
